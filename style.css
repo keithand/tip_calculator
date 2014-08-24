@@ -1,0 +1,33 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: 'Roboto Condensed', sans-serif;
+	background-color: #F5FAD2;
+}
+
+header{
+	padding:10px;
+	margin: 0;
+	background-color: #079565;
+	color:#fff;
+}
+
+#section1{
+	float:left;
+	margin:10px;
+	padding-left: 10px;
+	width:300px;
+}
+
+#section2{
+	float:left;
+	width:170px;
+	height:150px;
+	margin: 10px;
+	padding-left: 10px;
+	background-color: #D1F5BB;
+}
+
+#totals {
+	font-weight: bold;
+}
